@@ -1,0 +1,1 @@
+## This is a repositorie, where I will be adding differents projects using TypeScript.  ##
