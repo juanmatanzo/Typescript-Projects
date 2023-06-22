@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 70px
+}
+
+.footer{
+    margin-top: auto;    
+}
+
+.flex a {
+    text-decoration: none;
+    color: black;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
